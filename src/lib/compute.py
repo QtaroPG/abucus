@@ -12,3 +12,5 @@ new6
 changed in branch2 of abucus2
 
 masterChange in master branch
+
+newfile3 added in branch3

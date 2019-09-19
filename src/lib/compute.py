@@ -15,3 +15,4 @@ masterChange in master branch
 
 newfile3 added in branch3
 add more change in master (after branch3 created in other local repo)
+ok, pull requrest merge

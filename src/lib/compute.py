@@ -14,3 +14,4 @@ changed in branch2 of abucus2
 masterChange in master branch
 
 newfile3 added in branch3
+add more change in master (after branch3 created in other local repo)

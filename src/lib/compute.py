@@ -12,3 +12,5 @@ new6
 changed in branch2 of abucus2
 
 masterChange in master branch
+
+add more change in master (after branch3 created in other local repo)
